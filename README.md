@@ -9,7 +9,7 @@
 ```
 yum -y install wget curl
 
-wget https://raw.githubusercontent.com/qinghuas/socks5-install/master/socks5.sh;bash socks5.sh
+wget https://raw.githubusercontent.com/pegakmop/socks5-install/refs/heads/master/socks5.sh;bash socks5.sh
 ```
 ![](https://i.loli.net/2018/03/25/5ab743d5c479b.png)
 
